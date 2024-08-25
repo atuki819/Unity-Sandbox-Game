@@ -1,0 +1,48 @@
+# Unityのキャッシュやビルドファイル
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# プロジェクトのローカルユーザー設定
+UserSettings/
+
+# Unityのアセットストアツール
+Assets/AssetStoreTools*
+
+# VSCodeとRiderの設定ファイル
+.vscode/
+.idea/
+
+# VisualStudio の設定ファイル
+.vs/
+.vsconfig
+
+# MonoDevelopの設定ファイル
+*.pidb
+*.suo
+*.user
+*.userprefs
+*.csproj
+*.unityproj
+*.tmproj
+
+# Unityクラウドビルド
+*.collabignore
+.cvs/
+
+# VSCodeの拡張設定
+*.code-workspace
+
+# その他の一時ファイル
+*.swp
+*.lock
+*.tmp
+*.temp
+*.bak
+*.obj
+*.DS_Store
+Thumbs.db
+
